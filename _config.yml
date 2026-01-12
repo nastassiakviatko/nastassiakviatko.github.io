@@ -1,0 +1,22 @@
+title: "Nastassia Kviatko"
+description: "Professional profile of Nastassia Kviatko, a customer service and operations specialist with experience in claims & benefits, healthcare, insurance, and international corporate environments."
+
+theme: jekyll-theme-minimal
+
+lang: en
+markdown: kramdown
+
+plugins:
+  - jekyll-seo-tag
+
+seo:
+  type: Person
+
+author:
+  name: Nastassia Kviatko
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
